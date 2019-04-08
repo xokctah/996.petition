@@ -11,6 +11,7 @@
 # 公开信全文
 
 * [致中华全国总工会王东明主席的公开信](open-letter-to-acftu.md) （[简短版本](open-letter-to-acftu-short-version.md)）
+* [致人力资源和社会保障部张纪南部长的公开信](open-letter-to-mohrss.md)
 
 # 公开信投递进展
 
