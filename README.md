@@ -10,8 +10,8 @@
 
 # 公开信全文
 
-* [致中华全国总工会王东明主席的公开信](open-letter-to-acftu.md)
+* [致中华全国总工会王东明主席的公开信](open-letter-to-acftu.md) （[简短版本](open-letter-to-acftu-short-version.md)）
 
 # 公开信投递进展
 
-* ...
+* 4月8日上午9点56分，通过中华全国总工会的“[主席信箱](http://www.acftu.org/template/10041/mail.jsp)”提交公开信。由于“主席信箱”只接受500字以内的内容提交，因此正式提交的是一个[简短版本](open-letter-to-acftu-short-version.md)，其中包含对全文的链接。
