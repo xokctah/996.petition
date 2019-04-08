@@ -10,6 +10,10 @@
 
 # 公开信投递进展
 
+* 澎湃新闻题为《[996是天然正确的工作伦理？其实延长工时并不能提高生产力](https://www.thepaper.cn/newsDetail_forward_3272320)》的评论文章提及我们的呼吁行动：
+
+> 4月8日，亦有程序员在GitHub上表示，已向中华全国总工会、人资和社保等劳动相关部门递交了公开信，希望能够推动政府采取措施，谴责“996”等非法加班风气、开放举报渠道，同时对执行“996”的企业展开调查。
+
 * 4月8日上午10点35分，通过人力资源和社会保障部网站的“[部长信箱](http://www.mohrss.gov.cn/SYrlzyhshbzb/zxhd/buzhangxinxiang/woyaoxiexin/)”提交公开信。由于“部长信箱”只接受1000字以内的内容提交，因此正式提交的是一个[简短版本](open-letter-to-mohrss-short-version.md)，其中包含对全文的链接。
 * 4月8日上午9点56分，通过中华全国总工会的“[主席信箱](http://www.acftu.org/template/10041/mail.jsp)”提交公开信。由于“主席信箱”只接受500字以内的内容提交，因此正式提交的是一个[简短版本](open-letter-to-acftu-short-version.md)，其中包含对全文的链接。
 
