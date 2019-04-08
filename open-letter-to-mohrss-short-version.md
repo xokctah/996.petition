@@ -1,3 +1,5 @@
+**说明：因人力资源和社会保障部网站的“[部长信箱](http://www.mohrss.gov.cn/SYrlzyhshbzb/zxhd/buzhangxinxiang/woyaoxiexin/)”要求正文不能超过1000字符，将公开信全文缩减如下**
+
 （公开信全文见：http://t.cn/E6cto5Z ）
 
 敬爱的张纪南部长，您好。
