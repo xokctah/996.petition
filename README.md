@@ -15,4 +15,5 @@
 
 # 公开信投递进展
 
+* 4月9日上午10点35分，通过人力资源和社会保障部网站的“[部长信箱](http://www.mohrss.gov.cn/SYrlzyhshbzb/zxhd/buzhangxinxiang/woyaoxiexin/)”提交公开信。由于“部长信箱”只接受1000字以内的内容提交，因此正式提交的是一个[简短版本](open-letter-to-mohrss-short-version.md)，其中包含对全文的链接。
 * 4月8日上午9点56分，通过中华全国总工会的“[主席信箱](http://www.acftu.org/template/10041/mail.jsp)”提交公开信。由于“主席信箱”只接受500字以内的内容提交，因此正式提交的是一个[简短版本](open-letter-to-acftu-short-version.md)，其中包含对全文的链接。
