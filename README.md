@@ -1,4 +1,7 @@
+# 996.petition 
+
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 以公开信的形式，向中华全国总工会、人资和社保部等劳动相关部门寻求帮助，呼吁相关政府部门采取下列行动：
 
